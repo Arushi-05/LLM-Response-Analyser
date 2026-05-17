@@ -1,0 +1,247 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Why do orcas sometimes attack great white sharks specifically for their livers, and what does this behavior reveal about their intelligence, hunting strategy, and marine ecosystem impact?",
+            "expected_keywords": [
+                "orca",
+                "killer whale",
+                "great white shark",
+                "liver",
+                "fat",
+                "energy",
+                "hunting strategy",
+                "marine ecosystem",
+                "intelligence"
+            ],
+            "expected_answer": "Orcas often target great white shark livers because the liver is rich in fat and energy. This behavior demonstrates advanced hunting strategies, intelligence, and the ability of orcas to impact marine ecosystems and predator hierarchies."
+        },
+        {
+            "id": 2,
+            "question": "How do snow leopards survive in extreme Himalayan environments with low oxygen, freezing temperatures, and scarce prey? Explain the biological and evolutionary adaptations in detail.",
+            "expected_keywords": [
+                "snow leopard",
+                "himalayas",
+                "thick fur",
+                "low oxygen",
+                "adaptation",
+                "camouflage",
+                "cold",
+                "evolution",
+                "scarce prey"
+            ],
+            "expected_answer": "Snow leopards survive harsh Himalayan environments through thick fur, powerful lungs, large paws for snow movement, camouflage, and evolutionary adaptations that help them tolerate low oxygen and freezing temperatures."
+        },
+        {
+            "id": 3,
+            "question": "What caused the near extinction and later recovery of American bison in North America, and how did this event affect Indigenous communities, grassland ecosystems, and modern conservation policies?",
+            "expected_keywords": [
+                "american bison",
+                "extinction",
+                "hunting",
+                "conservation",
+                "indigenous communities",
+                "grassland",
+                "ecosystem",
+                "recovery",
+                "north america"
+            ],
+            "expected_answer": "American bison nearly went extinct due to mass hunting and habitat destruction. Conservation programs later helped recovery, while the decline deeply affected Indigenous communities and grassland ecosystems."
+    },
+    
+        {
+            "id": 4,
+            "question": "Why are axolotls capable of regenerating entire limbs, spinal cord tissue, and parts of their brain, and how are scientists studying this ability for human medical research?",
+            "expected_keywords": [
+                "axolotl",
+                "regeneration",
+                "limbs",
+                "spinal cord",
+                "brain tissue",
+                "stem cells",
+                "medical research",
+                "healing",
+                "tissue repair"
+            ],
+            "expected_answer": "Axolotls can regenerate limbs and nervous tissue because of unique cellular regeneration mechanisms and stem-cell-like processes. Scientists study them to improve human tissue repair and regenerative medicine."
+        },
+        {
+            "id": 5,
+            "question": "How do African elephants communicate using low-frequency infrasound over long distances, and what role does this communication play in migration, social bonding, and danger detection?",
+            "expected_keywords": [
+                "african elephant",
+                "infrasound",
+                "communication",
+                "long distances",
+                "migration",
+                "social bonding",
+                "danger detection",
+                "vibrations",
+                "low frequency"
+            ],
+            "expected_answer": "African elephants use low-frequency infrasound to communicate over long distances. This communication supports migration, social bonding, coordination, and danger detection."
+        },
+        {
+            "id": 6,
+            "question": "How does retinol improve skin texture and reduce signs of aging, and what are the common side effects during the initial usage phase?",
+            "expected_keywords": [
+                "retinol",
+                "vitamin a",
+                "collagen",
+                "fine lines",
+                "wrinkles",
+                "skin texture",
+                "irritation",
+                "dryness",
+                "cell turnover"
+            ],
+            "expected_answer": "Retinol improves skin texture and reduces signs of aging by increasing cell turnover and stimulating collagen production. Initial side effects may include dryness, irritation, peeling, and redness."
+        },
+        {
+            "id": 7,
+            "question": "Why is hyaluronic acid widely used in skincare products, and how does it help maintain skin hydration?",
+            "expected_keywords": [
+                "hyaluronic acid",
+                "hydration",
+                "moisture",
+                "water retention",
+                "skin barrier",
+                "plump skin",
+                "humectant",
+                "dehydration",
+                "hydrating"
+            ],
+            "expected_answer": "Hyaluronic acid is widely used in skincare because it attracts and retains water, helping maintain hydration, skin elasticity, and a healthy skin barrier."
+        },
+        {
+            "id": 8,
+            "question": "What causes acne vulgaris, and how do ingredients like salicylic acid and benzoyl peroxide help treat it?",
+            "expected_keywords": [
+                "acne vulgaris",
+                "salicylic acid",
+                "benzoyl peroxide",
+                "oil",
+                "sebum",
+                "bacteria",
+                "pores",
+                "inflammation",
+                "exfoliation"
+            ],
+            "expected_answer": "Acne vulgaris is caused by excess oil, clogged pores, bacteria, and inflammation. Salicylic acid exfoliates pores, while benzoyl peroxide reduces acne-causing bacteria."
+        },
+        {
+            "id": 9,
+            "question": "How does sunscreen protect the skin from UV radiation, and what is the difference between UVA and UVB rays?",
+            "expected_keywords": [
+                "sunscreen",
+                "uv radiation",
+                "uva",
+                "uvb",
+                "sun damage",
+                "spf",
+                "skin cancer",
+                "photoaging",
+                "protection"
+            ],
+            "expected_answer": "Sunscreen protects the skin from harmful UV radiation. UVA rays contribute to aging, while UVB rays mainly cause sunburn and increase skin cancer risk."
+    },
+    {
+        },
+        {
+            "id": 10,
+            "question": "Why is the skin barrier important in dermatology, and how can over-exfoliation damage it?",
+            "expected_keywords": [
+                "skin barrier",
+                "over exfoliation",
+                "irritation",
+                "redness",
+                "moisture loss",
+                "sensitivity",
+                "ceramides",
+                "barrier repair",
+                "dermatology"
+            ],
+            "expected_answer": "The skin barrier protects against moisture loss, bacteria, and irritation. Over-exfoliation can damage this barrier, causing redness, sensitivity, dryness, and inflammation."
+        },
+        {
+            "id": 11,
+            "question": "How does niacinamide benefit the skin, and why is it commonly included in modern skincare formulations?",
+            "expected_keywords": [
+                "niacinamide",
+                "vitamin b3",
+                "brightening",
+                "oil control",
+                "pores",
+                "skin barrier",
+                "anti inflammatory",
+                "pigmentation",
+                "skincare formulations"
+            ],
+            "expected_answer": "Niacinamide benefits the skin by reducing inflammation, controlling oil production, improving the skin barrier, and helping with pigmentation and enlarged pores."
+        },
+        {
+            "id": 12,
+            "question": "What is hyperpigmentation, and how do ingredients like vitamin C and alpha arbutin help reduce it?",
+            "expected_keywords": [
+                "hyperpigmentation",
+                "vitamin c",
+                "alpha arbutin",
+                "melanin",
+                "dark spots",
+                "brightening",
+                "uneven skin tone",
+                "antioxidant",
+                "pigmentation"
+            ],
+            "expected_answer": "Hyperpigmentation occurs when excess melanin forms dark patches on the skin. Ingredients like vitamin C and alpha arbutin help brighten skin and reduce pigmentation."
+        },
+        {
+            "id": 13,
+            "question": "How do chemical exfoliants like AHAs and BHAs differ from physical scrubs, and what are their advantages in skincare?",
+            "expected_keywords": [
+                "ahas",
+                "bhas",
+                "chemical exfoliation",
+                "physical scrubs",
+                "glycolic acid",
+                "salicylic acid",
+                "dead skin cells",
+                "skin texture",
+                "gentle exfoliation"
+            ],
+            "expected_answer": "Chemical exfoliants like AHAs and BHAs dissolve dead skin cells using acids, while physical scrubs manually remove them. Chemical exfoliants are often gentler and more effective."
+        },
+        {
+            "id": 14,
+            "question": "Why is collagen important for youthful skin, and how does aging affect collagen production over time?",
+            "expected_keywords": [
+                "collagen",
+                "aging",
+                "skin elasticity",
+                "wrinkles",
+                "fine lines",
+                "protein",
+                "skin firmness",
+                "collagen production",
+                "youthful skin"
+            ],
+            "expected_answer": "Collagen is a structural protein that maintains skin firmness and elasticity. Aging reduces collagen production, leading to wrinkles and sagging skin."
+        },
+        {
+            "id": 15,
+            "question": "How does the skincare industry test products for safety and effectiveness before releasing them to consumers?",
+            "expected_keywords": [
+                "clinical testing",
+                "dermatologist tested",
+                "safety",
+                "effectiveness",
+                "patch test",
+                "consumer trials",
+                "formulation",
+                "quality control",
+                "regulations"
+            ],
+            "expected_answer": "Skincare products are tested using clinical trials, dermatologist reviews, patch testing, and quality control processes to ensure safety and effectiveness before release."
+        }
+    ]
+}
