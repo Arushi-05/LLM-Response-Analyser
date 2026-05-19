@@ -14,7 +14,7 @@
                 "marine ecosystem",
                 "intelligence"
             ],
-            "expected_answer": "Orcas often target great white shark livers because the liver is rich in fat and energy. This behavior demonstrates advanced hunting strategies, intelligence, and the ability of orcas to impact marine ecosystems and predator hierarchies."
+            "expected_answer": "Orcas target great white shark livers because the organ is exceptionally large and rich in energy-dense fat and squalene oil, making it one of the most nutritious parts of the shark. This highly specific targeting behavior requires orcas to understand shark anatomy in detail, demonstrating advanced intelligence and the ability to learn and transmit hunting strategies across generations. The precision involved — extracting the liver while leaving the rest of the carcass — suggests coordinated, deliberate technique rather than opportunistic feeding. From a marine ecosystem perspective, documented cases show that great white sharks abandon areas entirely after orca attacks, fundamentally disrupting local predator hierarchies and altering prey populations in those regions."
         },
         {
             "id": 2,
@@ -30,7 +30,7 @@
                 "evolution",
                 "scarce prey"
             ],
-            "expected_answer": "Snow leopards survive harsh Himalayan environments through thick fur, powerful lungs, large paws for snow movement, camouflage, and evolutionary adaptations that help them tolerate low oxygen and freezing temperatures."
+            "expected_answer": "Snow leopards have evolved a remarkable set of biological adaptations to survive the extreme Himalayan environment at elevations between 3,000 and 5,500 meters. Their thick fur, which is denser than that of any other large cat, provides insulation against freezing temperatures, while their large, fur-covered paws act like natural snowshoes for moving across deep snow and steep terrain. To cope with low oxygen at high altitude, snow leopards have developed enlarged nasal cavities and chest capacity, allowing them to extract sufficient oxygen from thin air. Their grey and white spotted coat provides exceptional camouflage against rocky, snow-covered landscapes, making them effective ambush hunters. Their long, heavily furred tail serves both as a balance aid on steep terrain and as a wrap-around blanket for warmth. These evolutionary adaptations, shaped over thousands of years in one of Earth's harshest environments, allow snow leopards to survive on scarce prey like blue sheep and ibex across vast, remote territories."
         },
         {
             "id": 3,
@@ -46,9 +46,8 @@
                 "recovery",
                 "north america"
             ],
-            "expected_answer": "American bison nearly went extinct due to mass hunting and habitat destruction. Conservation programs later helped recovery, while the decline deeply affected Indigenous communities and grassland ecosystems."
-    },
-    
+            "expected_answer": "American bison in North America declined from an estimated 30 to 60 million animals to fewer than 1,000 by the late 1880s, primarily due to commercial mass hunting for hides and meat, habitat destruction from westward expansion, and in some cases deliberate government policy aimed at undermining Plains Indigenous communities by eliminating their primary food and cultural resource. The collapse devastated Indigenous nations whose cultures, diets, spiritual practices, and economies were deeply tied to bison, causing widespread starvation and cultural disruption. Ecologically, the loss of bison transformed vast grassland ecosystems, as bison grazing had historically maintained prairie diversity, soil health, and plant species balance across North America. Conservation efforts beginning in the early 20th century, led by figures like Theodore Roosevelt and organizations such as the American Bison Society, helped stabilize and slowly recover the population. Today, bison herds managed on federal lands and Indigenous-owned ranches number around 500,000, and modern conservation policies increasingly recognize both the ecological role of bison as a keystone species and their cultural significance to Indigenous communities."
+        },
         {
             "id": 4,
             "question": "Why are axolotls capable of regenerating entire limbs, spinal cord tissue, and parts of their brain, and how are scientists studying this ability for human medical research?",
@@ -63,7 +62,7 @@
                 "healing",
                 "tissue repair"
             ],
-            "expected_answer": "Axolotls can regenerate limbs and nervous tissue because of unique cellular regeneration mechanisms and stem-cell-like processes. Scientists study them to improve human tissue repair and regenerative medicine."
+            "expected_answer": "Axolotls possess extraordinary regenerative capabilities because of a unique biological process in which mature cells at a wound site dedifferentiate — effectively reverting to a stem-cell-like state — and form a structure called a blastema, which then proliferates and redifferentiates into the specific tissues needed to rebuild the lost structure. This process allows axolotls to regenerate entire limbs, sections of spinal cord, heart muscle, and even parts of the brain with full functional restoration and without scarring. Unlike mammals, whose injury response is dominated by inflammation and fibrosis leading to scar tissue, axolotls mount a relatively muted inflammatory response that permits complete tissue repair. Scientists are studying axolotls through genomic sequencing, gene expression analysis, and targeted gene editing to identify the specific molecular signals that trigger and regulate the blastema formation process. Understanding these mechanisms holds significant promise for human medical research, particularly in developing therapies for spinal cord injuries, nerve damage, and heart disease, where human tissue repair is currently limited to scarring rather than true regeneration."
         },
         {
             "id": 5,
@@ -79,7 +78,7 @@
                 "vibrations",
                 "low frequency"
             ],
-            "expected_answer": "African elephants use low-frequency infrasound to communicate over long distances. This communication supports migration, social bonding, coordination, and danger detection."
+            "expected_answer": "African elephants produce low-frequency infrasound calls, typically between 14 and 35 Hz, which fall well below the threshold of human hearing. These sounds are generated through the larynx and can travel distances of 10 kilometers or more through the air, and even further as seismic vibrations through the ground. Elephants are believed to detect ground-borne vibrations through their feet and the sensitive skin of their trunks, effectively receiving messages through two channels simultaneously. This long-distance communication plays a critical role in coordinating migration across large landscapes, allowing separated family groups to locate one another and converge on water sources or feeding areas. Infrasound calls also facilitate social bonding within and between family groups, with specific calls identified for greetings, distress, musth announcements, and maternal communication with calves. For danger detection, elephants use infrasound to warn distant family members of predator presence and to coordinate group defensive responses, making it an essential tool for survival across the wide territories they inhabit."
         },
         {
             "id": 6,
@@ -95,7 +94,7 @@
                 "dryness",
                 "cell turnover"
             ],
-            "expected_answer": "Retinol improves skin texture and reduces signs of aging by increasing cell turnover and stimulating collagen production. Initial side effects may include dryness, irritation, peeling, and redness."
+            "expected_answer": "Retinol is a derivative of vitamin A that improves skin texture and reduces signs of aging through two primary mechanisms. First, it accelerates cell turnover by encouraging the shedding of older surface skin cells and their replacement with newer ones, which smooths rough texture, fades hyperpigmentation, and reduces the appearance of fine lines and wrinkles over time. Second, retinol penetrates deeper skin layers where it stimulates fibroblasts to produce more collagen and elastin, helping restore firmness and structural integrity that diminishes with age. During the initial phase of retinol use, commonly called the retinization period, many users experience side effects including dryness, flaking, peeling, irritation, and redness as the skin adjusts to accelerated cell turnover. These side effects are typically temporary and can be managed by starting with a low concentration, applying retinol only a few nights per week, and using a good moisturizer to support the skin barrier throughout the adjustment period."
         },
         {
             "id": 7,
@@ -111,7 +110,7 @@
                 "dehydration",
                 "hydrating"
             ],
-            "expected_answer": "Hyaluronic acid is widely used in skincare because it attracts and retains water, helping maintain hydration, skin elasticity, and a healthy skin barrier."
+            "expected_answer": "Hyaluronic acid is one of the most widely used ingredients in modern skincare formulations because of its exceptional ability to attract and retain water. As a humectant, it draws moisture both from the deeper layers of the skin and from the surrounding environment, holding up to 1,000 times its own weight in water and delivering that hydration to the skin's surface. This water-binding capacity helps maintain skin plumpness, reduces the appearance of fine lines caused by dehydration, and supports a healthy, functioning skin barrier. The skin barrier relies on adequate hydration to remain intact and protective, so hyaluronic acid's hydrating effect also helps prevent moisture loss and reduces sensitivity to environmental irritants. It is suitable for all skin types, including oily and acne-prone skin, because it provides lightweight hydration without clogging pores or adding oil. The ingredient's effectiveness and tolerability across skin types make it a standard component in serums, moisturizers, and even some cleansers."
         },
         {
             "id": 8,
@@ -127,7 +126,7 @@
                 "inflammation",
                 "exfoliation"
             ],
-            "expected_answer": "Acne vulgaris is caused by excess oil, clogged pores, bacteria, and inflammation. Salicylic acid exfoliates pores, while benzoyl peroxide reduces acne-causing bacteria."
+            "expected_answer": "Acne vulgaris develops through four interconnected processes: excess sebum production stimulated by androgens, abnormal shedding of skin cells that causes them to clump and block pores, colonization of the blocked follicle by Cutibacterium acnes bacteria in the oxygen-poor environment, and an inflammatory immune response to bacterial byproducts that produces the redness, swelling, and pain associated with active breakouts. Salicylic acid is a beta hydroxy acid that treats acne primarily through exfoliation — it is oil-soluble, allowing it to penetrate into pores and dissolve the mixture of sebum and dead skin cells that causes blockages, making it particularly effective for blackheads and whiteheads. Benzoyl peroxide works through a different mechanism, acting as an antimicrobial agent that introduces oxygen into the follicle, creating an environment hostile to the anaerobic Cutibacterium acnes bacteria and significantly reducing bacterial populations. Together, these two ingredients address different root causes of acne and are often used in combination for more comprehensive treatment of both existing breakouts and prevention of new ones."
         },
         {
             "id": 9,
@@ -143,9 +142,7 @@
                 "photoaging",
                 "protection"
             ],
-            "expected_answer": "Sunscreen protects the skin from harmful UV radiation. UVA rays contribute to aging, while UVB rays mainly cause sunburn and increase skin cancer risk."
-    },
-    {
+            "expected_answer": "Sunscreen protects the skin from harmful UV radiation through two types of active ingredients. Chemical filters such as avobenzone and oxybenzone absorb UV radiation and convert it into small amounts of heat, preventing it from penetrating skin cells. Physical or mineral filters such as zinc oxide and titanium dioxide sit on the skin's surface and reflect or scatter UV rays away from the skin. The SPF rating specifically measures protection against UVB rays, indicating how much longer protected skin can be exposed before burning compared to unprotected skin. UVA and UVB rays cause different types of damage. UVA rays have longer wavelengths that penetrate deep into the dermis, where they damage collagen and elastin, contributing to photoaging, wrinkles, and loss of skin firmness. UVA rays are also associated with increased skin cancer risk, particularly melanoma. UVB rays have shorter wavelengths and primarily affect the skin's surface, causing sunburn, direct DNA damage to skin cells, and significantly elevated risk of skin cancer including squamous and basal cell carcinoma. Broad-spectrum sunscreens are formulated to protect against both UVA and UVB radiation."
         },
         {
             "id": 10,
@@ -161,7 +158,7 @@
                 "barrier repair",
                 "dermatology"
             ],
-            "expected_answer": "The skin barrier protects against moisture loss, bacteria, and irritation. Over-exfoliation can damage this barrier, causing redness, sensitivity, dryness, and inflammation."
+            "expected_answer": "The skin barrier, specifically the outermost layer called the stratum corneum, is fundamental to dermatological health because it serves as the primary interface between the body and the external environment. It prevents transepidermal water loss, keeping skin hydrated and supple. It blocks the entry of pathogens, allergens, and environmental irritants. And it protects underlying tissue from UV damage and pollution. The barrier's structural integrity depends on a matrix of corneocytes held together by lipids including ceramides, cholesterol, and fatty acids. Over-exfoliation damages this structure by stripping away too many of these protective lipid layers and surface cells before the skin has time to regenerate them. The result is a compromised barrier that can no longer retain moisture effectively, leading to dryness and tightness, and can no longer block irritants effectively, leading to redness, sensitivity, stinging, and increased inflammatory reactions. Repeated over-exfoliation can create a cycle where irritated skin feels rough, prompting more exfoliation, causing further damage. Barrier repair requires temporarily stopping exfoliation and using products rich in ceramides, fatty acids, and gentle humectants to allow the lipid matrix to rebuild."
         },
         {
             "id": 11,
@@ -177,7 +174,7 @@
                 "pigmentation",
                 "skincare formulations"
             ],
-            "expected_answer": "Niacinamide benefits the skin by reducing inflammation, controlling oil production, improving the skin barrier, and helping with pigmentation and enlarged pores."
+            "expected_answer": "Niacinamide, also known as vitamin B3, has become one of the most widely included ingredients in modern skincare formulations because it delivers multiple benefits across different skin concerns simultaneously and is well-tolerated by almost all skin types including sensitive and acne-prone skin. It strengthens the skin barrier by stimulating ceramide and fatty acid production, improving the skin's ability to retain moisture and resist environmental damage. It regulates sebum production, helping to control excess oil and reduce the appearance of enlarged pores. Its anti-inflammatory properties make it effective at calming redness, irritation, and the inflammatory component of acne. For pigmentation, niacinamide inhibits the transfer of melanosomes from melanocytes to surrounding skin cells, gradually brightening uneven skin tone and fading dark spots without the irritation associated with stronger brightening agents. Its stability across a wide pH range and compatibility with most other active ingredients, including retinol, vitamin C, and exfoliating acids, make it an ideal addition to complex formulations, which explains its prevalence in serums and moisturizers across all price points."
         },
         {
             "id": 12,
@@ -193,7 +190,7 @@
                 "antioxidant",
                 "pigmentation"
             ],
-            "expected_answer": "Hyperpigmentation occurs when excess melanin forms dark patches on the skin. Ingredients like vitamin C and alpha arbutin help brighten skin and reduce pigmentation."
+            "expected_answer": "Hyperpigmentation is a common skin condition in which patches of skin become darker than the surrounding area due to an overproduction of melanin, the pigment responsible for skin color. It occurs in several forms including sun spots from UV exposure, melasma triggered by hormonal changes, and post-inflammatory hyperpigmentation that follows acne, injury, or inflammation. Both vitamin C and alpha arbutin address hyperpigmentation by interfering with the melanin production pathway, though through slightly different mechanisms. Vitamin C, particularly in its ascorbic acid form, inhibits the enzyme tyrosinase which is essential for melanin synthesis, while simultaneously acting as a powerful antioxidant that neutralizes free radicals from UV exposure and pollution that would otherwise trigger additional pigmentation. Alpha arbutin also inhibits tyrosinase but does so more selectively and with less risk of irritation than some other brightening agents, making it suitable for sensitive skin. Both ingredients work gradually over weeks to months to fade existing dark spots, even out skin tone, and reduce the formation of new pigmentation when used consistently alongside daily sun protection."
         },
         {
             "id": 13,
@@ -209,7 +206,7 @@
                 "skin texture",
                 "gentle exfoliation"
             ],
-            "expected_answer": "Chemical exfoliants like AHAs and BHAs dissolve dead skin cells using acids, while physical scrubs manually remove them. Chemical exfoliants are often gentler and more effective."
+            "expected_answer": "Physical scrubs and chemical exfoliants both remove dead skin cells from the surface but work through fundamentally different mechanisms. Physical scrubs use abrasive particles such as sugar, salt, or microbeads to manually dislodge dead cells through friction, which can be effective but also risks causing microtears in the skin, uneven exfoliation, and irritation especially when scrubbed too vigorously. Chemical exfoliants instead use acids to dissolve the bonds between dead skin cells, allowing them to shed naturally and evenly without any physical abrasion. AHAs, or alpha hydroxy acids, including glycolic acid and lactic acid, are water-soluble and work primarily on the skin's surface, making them effective for improving skin texture, fading sun damage, and smoothing fine lines, particularly for dry or mature skin types. BHAs, or beta hydroxy acids, with salicylic acid being the most common, are oil-soluble and can penetrate into the pore lining to dissolve sebum and dead cell buildup, making them especially effective for oily and acne-prone skin. The key advantages of chemical exfoliants over physical scrubs are their ability to exfoliate more uniformly, reach deeper into pores, and deliver additional targeted benefits like anti-inflammatory or brightening effects depending on the specific acid used."
         },
         {
             "id": 14,
@@ -225,7 +222,7 @@
                 "collagen production",
                 "youthful skin"
             ],
-            "expected_answer": "Collagen is a structural protein that maintains skin firmness and elasticity. Aging reduces collagen production, leading to wrinkles and sagging skin."
+            "expected_answer": "Collagen is the most abundant structural protein in the skin, making up approximately 75 to 80 percent of the skin's dry weight. It forms a dense network of fibers in the dermis that provides the skin with firmness, strength, and the ability to snap back after movement. Alongside elastin, collagen is responsible for the smooth, plump, and resilient appearance associated with youthful skin. Starting around age 25, the body's collagen production begins to decline at approximately 1 to 1.5 percent per year. This gradual reduction in collagen synthesis, combined with the simultaneous breakdown of existing collagen by enzymes and oxidative stress from UV exposure and environmental factors, results in progressively thinner, less firm skin over time. The visible consequences include the formation of fine lines and wrinkles as the structural support beneath the skin surface diminishes, sagging particularly around the jawline and cheeks as skin loses its ability to maintain tension, and a general loss of the plump, bouncy quality that characterizes younger skin. Accelerating factors including chronic sun exposure, smoking, and high sugar diets can significantly speed up collagen degradation beyond the natural rate of age-related decline."
         },
         {
             "id": 15,
@@ -241,7 +238,7 @@
                 "quality control",
                 "regulations"
             ],
-            "expected_answer": "Skincare products are tested using clinical trials, dermatologist reviews, patch testing, and quality control processes to ensure safety and effectiveness before release."
+            "expected_answer": "The skincare industry uses a multi-stage testing process to evaluate both the safety and effectiveness of products before they reach consumers. Safety testing typically begins with in vitro laboratory methods including cell culture tests for cytotoxicity and irritation potential, and increasingly uses 3D reconstructed human skin models that simulate the response of real skin without requiring animal testing. Patch testing is conducted on human volunteers to screen for allergic sensitization and skin irritation, with repeated insult patch tests used to assess cumulative sensitization risk over extended exposure. Stability and compatibility testing ensures the formulation remains chemically stable and free from microbial contamination under various storage conditions and across its shelf life. Efficacy testing uses both instrumental measurements such as devices that quantify skin hydration, elasticity, and transepidermal water loss, and consumer trials in which dermatologist-supervised panels of volunteers use the product over a defined period and report observable outcomes. Products must also comply with regulatory requirements that vary by country, governing ingredient safety limits, labeling accuracy, and claims substantiation. The phrase dermatologist tested on packaging indicates that a dermatologist was involved in evaluating the product, though it does not specify the extent or outcome of that testing, which is an important distinction for informed consumers."
         }
     ]
 }

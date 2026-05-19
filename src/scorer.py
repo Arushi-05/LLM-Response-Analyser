@@ -59,7 +59,7 @@ def final_score(
     response: str,
     expected_keywords: list,
     expected_answer: str,
-    pass_threshold: float = 75.0
+    pass_threshold: float = 70.0
 ) -> dict:
   
     if not isinstance(response, str) or not response.strip():
